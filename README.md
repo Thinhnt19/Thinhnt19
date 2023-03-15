@@ -58,10 +58,10 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/></span> &nbsp;
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![](https://github-readme-stats.vercel.app/api?username=Thinhnt19&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thinhnt19&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinhnt19&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<span>[<img src="https://github-readme-stats.vercel.app/api?username=lucthienphong1120&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github.com/Thinhnt19)</span>
-<span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucthienphong1120&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github.com/Thinhnt19)</span>
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
