@@ -66,11 +66,11 @@
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github-trophies.vercel.app/?username=lucthienphong1120" target="_blank">
+<a href="https://github.com/Thinhnt19" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=radical&margin-w=4&margin-h=4">
 </a>
 
-*User achievement statistics by [Github Trophies](https://github.com/lucthienphong1120/github-trophies)*
+*User achievement statistics by [Github Trophies](https://github.com/Thinhnt19)*
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -79,7 +79,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120">
+        <a href="https://github.com/Thinhnt19">
           <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=lucthienphong1120&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
@@ -88,8 +88,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucthienphong1120&theme=dracula"/>
+        <a href="https://github.com/Thinhnt19">
+          <img width="715" src="https://github.com/Thinhnt19"/>
         </a>
       </td>
     </tr>
@@ -97,8 +97,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=lucthienphong1120&theme=dracula">
+        <a href="https://github.com/Thinhnt19">
+          <img width="705" src="https://github.com/Thinhnt19">
         </a>
       </td>
     </tr>
