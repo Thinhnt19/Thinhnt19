@@ -4,9 +4,7 @@
 
 ### Hi there, I'm Nguyễn Trường Thịnh ✔️
 
-> [![View count](https://visitcount.itsvg.in/api?id=lucthienphong1120&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=lucthienphong1120)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C1EF7&width=435&lines=I+am+a+Front+End++DEV" alt="Typing SVG" /></p>
 
